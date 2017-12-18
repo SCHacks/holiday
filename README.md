@@ -4,7 +4,7 @@
 2. Put in an image of a character from your favorite holiday movie. ☃️ (look at your personal website)
 3. Set the page background to a photo or color using CSS. 🎨 (Google it!)
 4. Add jQuery (copy the code out of That Was Easy or [from here](https://developers.google.com/speed/libraries/#jquery)) 📎
-5. Triggered by mouse or keyboard interaction, at least 2: (jQuery documentation: https://api.jquery.com) ✨
+5. Triggered by mouse or keyboard interaction, at least 2 — [jQuery documentation](https://api.jquery.com) ✨
     - Sound (look at your That Was Easy workshop)
     - Animation (Google jQuery animation)
     - Alert (Google javascript alerts)
